@@ -255,7 +255,6 @@ These observations were documented while preserving original source data.
 - VBA Macros
 - Dynamic Lookup Tool
 
-AI tools (Claude and ChatGPT) were used as thinking partners to validate analytical approaches, explore edge cases, and improve documentation.
 
 ---
 
